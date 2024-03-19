@@ -6,17 +6,23 @@ box-sizing: border-box;
 
 body {
     font-family: 'Georgia', serif;
-    background-color: #d48d4a;
+    background-color: #fefae0;
     padding: 20px;
     margin: auto;
 }
 
 header {
-    background-color: #d3b17d;
+    background-color: #a17737;
     padding: 20px;
     text-align: center;
   }
   h1 {
     font-size: 2.5rem;
-    color: #6d4211;
+    color: #241804;
+    border: outset;
+    border-color: #241804;
+  }
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
   }
