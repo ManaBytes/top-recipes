@@ -4,3 +4,10 @@
 box-sizing: border-box;
 }
 
+body {
+    font-family: 'Georgia', serif;
+    background-color: #d48d4a;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
