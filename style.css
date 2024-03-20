@@ -14,17 +14,19 @@ body {
 
 header {
     background-color: #d3b17d;
-    padding: 20px;
+    padding:15px;
     text-align: center;
-    border: dashed;
+    border: double;
     border-color: #ca840c;
+    cursor: pointer;
   }
 
 h1 {
     font-size: 2.5rem;
     color: #7c5105;
-    border: dotted;
+    border: outset;
     border-color: rgb(168, 110, 2);
+    margin: 25px 100px;
   }
 
 h2 {
@@ -39,8 +41,7 @@ p {
     font-size: 1.1rem;
     line-height: 1.6;
     background-color: #d3b17d ;
-    border: outset
-    border-size: 2rem;
+    border: 4mm ridge #fc952099;
     padding: 10px;
   }
 
@@ -49,7 +50,7 @@ p {
     padding: 10px;
     margin: 5px 5px ;
     border: dotted;
-    border-radius: 45px;
+    border-radius: 25px;
     cursor: pointer;
     width: auto;
     height: 3rem;
