@@ -40,6 +40,8 @@ p {
     line-height: 1.6;
     background-color: #d3b17d ;
     border: outset
+    border-size: 2rem;
+    padding: 10px;
   }
 
 .button {
