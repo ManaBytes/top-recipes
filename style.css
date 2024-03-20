@@ -6,7 +6,6 @@ box-sizing: border-box;
 
 body {
     font-family: 'Georgia', serif;
-    background-color: #fefae0;
     padding: 10px;
     margin: auto;
     background-color: #a17528;
@@ -18,7 +17,6 @@ header {
     text-align: center;
     border: double;
     border-color: #ca840c;
-    cursor: pointer;
   }
 
 h1 {
