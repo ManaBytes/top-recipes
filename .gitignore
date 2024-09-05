@@ -21,7 +21,7 @@ node_modules/
 .DS_Store
 
 # Vite build output
-dist/
+# dist/
 
 # Local env files
 .env
@@ -38,3 +38,6 @@ dist/
 
 # Temporary system files
 Thumbs.db
+
+#Temp
+README.md
